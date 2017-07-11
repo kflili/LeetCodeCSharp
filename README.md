@@ -1,6 +1,6 @@
 # LeetCode solution in C#
 
-## LeetCode Courses
+## Part 1   LeetCode Courses
 
 ### CHAPTER 1. ARRAY / STRING
 **26. Remove Duplicates from Sorted Array**
@@ -65,3 +65,13 @@ Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer 
 
 **Solution Code link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_3_LongestSubstringWithoutRepeatingCharacters.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_3_LongestSubstringWithoutRepeatingCharacters.cs)
+
+**28. Implement strStr()**
+
+**Description:**
+Implement strStr().
+
+Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+**Solution Code link:**
+[https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_28_ImplementstrStr.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_28_ImplementstrStr.cs)
