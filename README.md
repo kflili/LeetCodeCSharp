@@ -88,6 +88,8 @@ Notes: It is intended for this problem to be specified vaguely (ie, no given inp
 **Solution Code Link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs)
 
+
+### CHAPTER 2. LINKED LIST
 **237. Delete Node in a Linked List**
 
 **Description:**
@@ -105,5 +107,18 @@ Reverse a singly linked list.
 
 Hint:
 A linked list can be reversed either iteratively or recursively. Could you implement both?
+
+**Solution Code Link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_206_ReverseLinkedList.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_206_ReverseLinkedList.cs)
 
+**141. Linked List Cycle**
+
+**Description:**
+Given a linked list, determine if it has a cycle in it.
+
+Follow up:
+Can you solve it without using extra space?
+
+**Solution Code Link:**
+
+[https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_141_LinkedListCycle.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_141_LinkedListCycle.cs)

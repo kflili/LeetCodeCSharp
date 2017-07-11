@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="ListNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_141_LinkedListCycle.cs" />
     <Compile Include="_167_TwoSumII.cs" />
     <Compile Include="_206_ReverseLinkedList.cs" />
     <Compile Include="_237_DeleteNodeinaLinkedList.cs" />
