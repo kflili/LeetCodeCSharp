@@ -97,3 +97,13 @@ Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third node wi
 
 **Solution Code Link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_237_DeleteNodeinaLinkedList.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_237_DeleteNodeinaLinkedList.cs)
+
+**206. Reverse Linked List**
+
+**Description:**
+Reverse a singly linked list.
+
+Hint:
+A linked list can be reversed either iteratively or recursively. Could you implement both?
+[https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_206_ReverseLinkedList.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_206_ReverseLinkedList.cs)
+
