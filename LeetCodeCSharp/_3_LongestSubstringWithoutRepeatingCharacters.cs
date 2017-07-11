@@ -8,6 +8,13 @@ namespace LeetCodeCSharp
 {
     public class _3_LongestSubstringWithoutRepeatingCharacters
     {
+        /*
+            Hint: use Dictionary(HashMap) for slicing window [i,j), 
+            if s[j] is already inside the window, i move forward, 
+            if s[j] not inside the window, the put s[j] in the dict with index j in as (k, v) pair.
+            Be careful: the index of s[j] may be not in the window but before the window.
+            e.g. abc[def]a (i = 3, j = 6), i should be max of (0,3). 
+         */
         public int LengthOfLongestSubstring(string s)
         {
             if (s == null)
