@@ -16,7 +16,7 @@ namespace LeetCodeCSharp
 {
     public class _206_ReverseLinkedList
     {
-        public ListNode ReverseList(ListNode head)
+        public ListNode ReverseListIteratively(ListNode head)
         {
             ListNode pre = null, temp;
             while (head != null)
@@ -28,14 +28,14 @@ namespace LeetCodeCSharp
             }
             return pre;
         }
-        public ListNode ReverseList2(ListNode head)
+        public ListNode ReverseListRecursively(ListNode head)
         {
             if (head == null || head.next == null)
             {
                 return head;
             }
             ListNode next = head.next;
-            ListNode newHead = ReverseList2(next);
+            ListNode newHead = ReverseListRecursively(next);
             next.next = head;
             head.next = null;
             return newHead;
