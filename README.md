@@ -88,3 +88,12 @@ Notes: It is intended for this problem to be specified vaguely (ie, no given inp
 **Solution Code Link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs)
 
+**237. Delete Node in a Linked List**
+
+**Description:**
+Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
+
+Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third node with value 3, the linked list should become 1 -> 2 -> 4 after calling your function.
+
+**Solution Code Link:**
+[https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_237_DeleteNodeinaLinkedList](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_237_DeleteNodeinaLinkedList)
