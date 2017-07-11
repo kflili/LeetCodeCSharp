@@ -60,6 +60,7 @@
     <Compile Include="_167_TwoSumIITests.cs" />
     <Compile Include="_242_ValidAnagramTests.cs" />
     <Compile Include="_26_RemoveDuplicatesfromSortedArrayTests.cs" />
+    <Compile Include="_28_ImplementstrStrTests.cs" />
     <Compile Include="_3_LongestSubstringWithoutRepeatingCharactersTests.cs" />
   </ItemGroup>
   <ItemGroup>
