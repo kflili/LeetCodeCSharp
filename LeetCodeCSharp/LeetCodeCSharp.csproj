@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="_167_TwoSumII.cs" />
+    <Compile Include="_242_ValidAnagram.cs" />
     <Compile Include="_26_RemoveDuplicatesfromSortedArray.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
