@@ -14,7 +14,7 @@ For example,
 Given input array nums = [1,1,2],  
 Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively. It doesn't matter what you leave beyond the new length.
 
-**Solution Code link:**
+**Solution Code Link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_26_RemoveDuplicatesfromSortedArray.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_26_RemoveDuplicatesfromSortedArray.cs)
 
 **167. Two Sum II - Input array is sorted**
@@ -29,7 +29,7 @@ You may assume that each input would have exactly one solution and you may not u
 Input: numbers={2, 7, 11, 15}, target=9
 Output: index1=1, index2=2
 
-**Solution Code link:**
+**Solution Code Link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_167_TwoSumII.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_167_TwoSumII.cs)
 
 **242. Valid Anagram**
@@ -47,7 +47,7 @@ You may assume the string contains only lowercase alphabets.
 Follow up:
 What if the inputs contain unicode characters? How would you adapt your solution to such case?
 
-**Solution Code link:**
+**Solution Code Link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_242_ValidAnagram.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_242_ValidAnagram.cs)
 
 **3. Longest Substring Without Repeating Characters**
@@ -63,7 +63,7 @@ Given "bbbbb", the answer is "b", with the length of 1.
 
 Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
-**Solution Code link:**
+**Solution Code Link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_3_LongestSubstringWithoutRepeatingCharacters.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_3_LongestSubstringWithoutRepeatingCharacters.cs)
 
 **28. Implement strStr()**
@@ -73,5 +73,18 @@ Implement strStr().
 
 Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
-**Solution Code link:**
+**Solution Code Link:**
 [https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_28_ImplementstrStr.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_28_ImplementstrStr.cs)
+
+**8. String to Integer (atoi)**
+
+**Description:**
+Implement atoi to convert a string to an integer.
+
+Hint: Carefully consider all possible input cases. If you want a challenge, please do not see below and ask yourself what are the possible input cases.
+
+Notes: It is intended for this problem to be specified vaguely (ie, no given input specs). You are responsible to gather all the input requirements up front.
+
+**Solution Code Link:**
+[https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs)
+
