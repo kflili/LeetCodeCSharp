@@ -46,6 +46,7 @@
     <Compile Include="_26_RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="_28_ImplementstrStr.cs" />
     <Compile Include="_3_LongestSubstringWithoutRepeatingCharacters.cs" />
+    <Compile Include="_8_StringtoInteger.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

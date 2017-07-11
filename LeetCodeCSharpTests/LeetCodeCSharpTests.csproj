@@ -62,6 +62,7 @@
     <Compile Include="_26_RemoveDuplicatesfromSortedArrayTests.cs" />
     <Compile Include="_28_ImplementstrStrTests.cs" />
     <Compile Include="_3_LongestSubstringWithoutRepeatingCharactersTests.cs" />
+    <Compile Include="_8_StringtoIntegeratoiTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
