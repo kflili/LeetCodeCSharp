@@ -40,8 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ListNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="_167_TwoSumII.cs" />
+    <Compile Include="_206_ReverseLinkedList.cs" />
     <Compile Include="_237_DeleteNodeinaLinkedList.cs" />
     <Compile Include="_242_ValidAnagram.cs" />
     <Compile Include="_26_RemoveDuplicatesfromSortedArray.cs" />

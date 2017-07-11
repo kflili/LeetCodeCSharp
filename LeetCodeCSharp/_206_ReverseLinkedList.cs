@@ -14,15 +14,20 @@ using System.Threading.Tasks;
  */
 namespace LeetCodeCSharp
 {
-    public class _237_DeleteNodeinaLinkedList
+    public class _206_ReverseLinkedList
     {
-        public void DeleteNode(ListNode node)
+        public ListNode ReverseList(ListNode head)
         {
-            if (node != null)
+            ListNode pre = null, temp;
+            while (head != null)
             {
-                node.val = node.next.val;
-                node.next = node.next.next;
+                temp = head.next;
+                head.next = pre;
+                pre = head;
+                head = temp;
             }
+            return pre;
         }
     }
 }
+
