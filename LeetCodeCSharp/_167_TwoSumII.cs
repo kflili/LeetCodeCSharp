@@ -8,6 +8,12 @@ namespace LeetCodeCSharp
 {
     public class _167_TwoSumII
     {
+        /*
+            Hint: use two Pointers, left and right, 
+            left + right < target, left ++;
+            left + right > target, right--;
+            left + right == target, return;
+        */
         public int[] TwoSum(int[] numbers, int target)
         {
             int[] result = null;
