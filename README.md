@@ -1,8 +1,8 @@
 # LeetCode solution in C#
 
-### LeetCode Courses
+## LeetCode Courses
 
-##### CHAPTER 1. ARRAY / STRING
+### CHAPTER 1. ARRAY / STRING
 **26. Remove Duplicates from Sorted Array**
 
 **Description:**
