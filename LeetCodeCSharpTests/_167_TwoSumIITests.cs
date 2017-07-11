@@ -14,12 +14,13 @@ namespace LeetCodeCSharp.Tests
         [TestMethod()]
         public void TwoSumTest()
         {
-            // arrange           
+            // arrange  
+            _167_TwoSumII testObj = new _167_TwoSumII();
             int[] nums = { 2, 7, 11, 15 };
             int target = 9;
 
             // act
-            int[] result = _167_TwoSumII.TwoSum(nums, target);
+            int[] result = testObj.TwoSum(nums, target);
 
             // assert
             Assert.AreEqual(1, result[0]);

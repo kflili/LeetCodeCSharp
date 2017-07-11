@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="_167_TwoSumIITests.cs" />
+    <Compile Include="_26_RemoveDuplicatesfromSortedArrayTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

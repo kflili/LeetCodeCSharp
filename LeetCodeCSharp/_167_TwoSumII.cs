@@ -8,7 +8,7 @@ namespace LeetCodeCSharp
 {
     public class _167_TwoSumII
     {
-        public static int[] TwoSum(int[] numbers, int target)
+        public int[] TwoSum(int[] numbers, int target)
         {
             int[] result = null;
             if (numbers == null || numbers.Length < 2)
