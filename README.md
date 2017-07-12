@@ -220,3 +220,5 @@ Example 2:
 ```
 Binary tree [1,2,3], return false.
 
+[My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_98_ValidateBinarySearchTree.cs)
+
