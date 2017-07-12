@@ -4,7 +4,7 @@
 ### Part 1 Solved problem List
 ---
 
-**[LeetCode Courses](https://leetcode.com/courses/)**
+**_[1. LeetCode Courses](https://leetcode.com/courses/)_**
 
 ID|Tags|Difficulty|Solution
 --|----|----------|--------
@@ -26,15 +26,15 @@ ID|Tags|Difficulty|Solution
 98|Tree, Depth-first Search|Easy|[Validate Binary Search Tree](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_98_ValidateBinarySearchTree.cs)
 
 
-The descriptions of problems can be found in later sections. 
+ 
 <br>
 <br>
 
 
-### Part 2   LeetCode Courses
+### Part 2   Problem descriptions
 ---
 
-This sets of problems are categerized as [LeetCode Courses](https://leetcode.com/courses/).
+**_[1. LeetCode Courses](https://leetcode.com/courses/)_**
 
 **Algorithms Basics**  
 Selected interview questions aimed for beginners who do not know algorithms or need a refresher. Learn by doing.
