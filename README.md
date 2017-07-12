@@ -133,3 +133,14 @@ Given 1->2->3->4, you should return the list as 2->1->4->3.
 Your algorithm should use only constant space. You may not modify the values in the list, only nodes itself can be changed.
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_24_SwapNodesinPairs.cs)
+
+#### CHAPTER 3. BINARY TREE
+
+**_104. Maximum Depth of Binary Tree_**
+
+**Description:**
+Given a binary tree, find its maximum depth.
+
+The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+[My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_104_MaximumDepthofBinaryTree.cs)
