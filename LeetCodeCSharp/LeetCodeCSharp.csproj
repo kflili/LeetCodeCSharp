@@ -45,6 +45,7 @@
     <Compile Include="TreeNode.cs" />
     <Compile Include="_100_SameTree.cs" />
     <Compile Include="_104_MaximumDepthofBinaryTree.cs" />
+    <Compile Include="_112_PathSum.cs" />
     <Compile Include="_141_LinkedListCycle.cs" />
     <Compile Include="_167_TwoSumII.cs" />
     <Compile Include="_206_ReverseLinkedList.cs" />
