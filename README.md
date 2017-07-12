@@ -161,7 +161,7 @@ Given a binary tree and a sum, determine if the tree has a root-to-leaf path suc
 
 For example:
 Given the below binary tree and sum = 22,
-
+```
               5
              / \
             4   8
@@ -169,7 +169,28 @@ Given the below binary tree and sum = 22,
           11  13  4
          /  \      \
         7    2      1
+```
 
 return true, as there exist a root-to-leaf path 5->4->11->2 which sum is 22.
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_112_PathSum.cs)
+
+**_257. Binary Tree Paths_**
+
+**Description:**
+Given a binary tree, return all root-to-leaf paths.
+
+For example, given the following binary tree
+```
+  1
+ / \
+2   3
+ \
+  5
+```
+
+All root-to-leaf paths are:
+
+["1->2->5", "1->3"]
+
+[My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_257_BinaryTreePaths.cs)

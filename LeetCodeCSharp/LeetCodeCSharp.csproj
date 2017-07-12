@@ -52,6 +52,7 @@
     <Compile Include="_237_DeleteNodeinaLinkedList.cs" />
     <Compile Include="_242_ValidAnagram.cs" />
     <Compile Include="_24_SwapNodesinPairs.cs" />
+    <Compile Include="_257_BinaryTreePaths.cs" />
     <Compile Include="_26_RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="_28_ImplementstrStr.cs" />
     <Compile Include="_3_LongestSubstringWithoutRepeatingCharacters.cs" />
