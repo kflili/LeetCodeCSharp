@@ -14,17 +14,24 @@ using System.Threading.Tasks;
  */
 namespace LeetCodeCSharp
 {
-    public class _104_MaximumDepthofBinaryTree
+    public class _100_SameTree
     {
-        public int MaxDepth(TreeNode root)
+        public bool IsSameTree(TreeNode p, TreeNode q)
         {
-            if (root == null)
+            if (p == null)
             {
-                return 0;
+                return q == null;
             }
-            int left = MaxDepth(root.left);
-            int right = MaxDepth(root.right);
-            return Math.Max(left, right) + 1;
+            if (q == null)
+            {
+                return false;
+            }
+
+            if (p.val == q.val && IsSameTree(p.left, q.left) && IsSameTree(p.right, q.right))
+            {
+                return true;
+            }
+            return false;
         }
     }
 }
