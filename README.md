@@ -1,8 +1,8 @@
 # LeetCode solution in C#
 
-## Part 1   LeetCode Courses
+### *Part 1   LeetCode Courses*
 
-### CHAPTER 1. ARRAY / STRING
+>#### CHAPTER 1. ARRAY / STRING
 **26. Remove Duplicates from Sorted Array**
 
 **Description:**
@@ -83,7 +83,7 @@ Notes: It is intended for this problem to be specified vaguely (ie, no given inp
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs)
 
 
-### CHAPTER 2. LINKED LIST
+>#### CHAPTER 2. LINKED LIST
 **237. Delete Node in a Linked List**
 
 **Description:**
