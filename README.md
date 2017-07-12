@@ -1,9 +1,10 @@
 # LeetCode solution in C#
 
-### *Part 1   LeetCode Courses*
+### Part 1   LeetCode Courses*
 
->#### CHAPTER 1. ARRAY / STRING
-**26. Remove Duplicates from Sorted Array**
+----
+#### CHAPTER 1. ARRAY / STRING
+**_26. Remove Duplicates from Sorted Array_**
 
 **Description:**
 Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.
@@ -16,7 +17,7 @@ Your function should return length = 2, with the first two elements of nums bein
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_26_RemoveDuplicatesfromSortedArray.cs)
 
-**167. Two Sum II - Input array is sorted**
+**_167. Two Sum II - Input array is sorted_**
 
 **Description:**
 Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.
@@ -30,7 +31,7 @@ Output: index1=1, index2=2
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_167_TwoSumII.cs)
 
-**242. Valid Anagram**
+**_242. Valid Anagram_**
 
 **Description:**
 Given two strings s and t, write a function to determine if t is an anagram of s.
@@ -47,7 +48,7 @@ What if the inputs contain unicode characters? How would you adapt your solution
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_242_ValidAnagram.cs)
 
-**3. Longest Substring Without Repeating Characters**
+**_3. Longest Substring Without Repeating Characters_**
 
 **Description:**
 Given a string, find the length of the longest substring without repeating characters.
@@ -62,7 +63,7 @@ Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer 
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_3_LongestSubstringWithoutRepeatingCharacters.cs)
 
-**28. Implement strStr()**
+**_28. Implement strStr()_**
 
 **Description:**
 Implement strStr().
@@ -71,7 +72,7 @@ Returns the index of the first occurrence of needle in haystack, or -1 if needle
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_28_ImplementstrStr.cs)
 
-**8. String to Integer (atoi)**
+**_8. String to Integer (atoi)_**
 
 **Description:**
 Implement atoi to convert a string to an integer.
@@ -83,8 +84,9 @@ Notes: It is intended for this problem to be specified vaguely (ie, no given inp
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs)
 
 
->#### CHAPTER 2. LINKED LIST
-**237. Delete Node in a Linked List**
+#### CHAPTER 2. LINKED LIST
+
+**_237. Delete Node in a Linked List_**
 
 **Description:**
 Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
@@ -93,7 +95,7 @@ Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third node wi
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_237_DeleteNodeinaLinkedList.cs)
 
-**206. Reverse Linked List**
+**_206. Reverse Linked List_**
 
 **Description:**
 Reverse a singly linked list.
@@ -103,7 +105,7 @@ A linked list can be reversed either iteratively or recursively. Could you imple
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_206_ReverseLinkedList.cs)
 
-**141. Linked List Cycle**
+**_141. Linked List Cycle_**
 
 **Description:**
 Given a linked list, determine if it has a cycle in it.
@@ -113,14 +115,14 @@ Can you solve it without using extra space?
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_141_LinkedListCycle.cs)
 
-**21. Merge Two Sorted Lists**
+**_21. Merge Two Sorted Lists_**
 
 **Description:**
 Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
 
 [My Solution Code](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_21_MergeTwoSortedLists.cs)
 
-**24. Swap Nodes in Pairs**
+**_24. Swap Nodes in Pairs_**
 
 **Description:**
 Given a linked list, swap every two adjacent nodes and return its head.
