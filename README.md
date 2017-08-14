@@ -8,7 +8,7 @@
 
 |ID|Tags|Difficulty|Solution|
 |--|----|----------|--------|
-|CHAPTER 1. ARRAY / STRING|
+|CHAPTER 1. ARRAY / STRING
 |26|Array, Two Pointers|Easy|[Remove Duplicates from Sorted Array](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_26_RemoveDuplicatesfromSortedArray.cs)|
 |167|Array, Two Pointers, Binary Search|Easy|[Two Sum II - Input array is sorted](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_167_TwoSumII.cs)|
 |242|String, HashTable|Easy|[Valid Anagram](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_242_ValidAnagram.cs)|
