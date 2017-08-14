@@ -6,29 +6,25 @@
 
 **_[1. LeetCode Courses](https://leetcode.com/courses/)_**
 
-|ID|Tags|Difficulty|Solution|
-|--|----|----------|--------|
-|CHAPTER 1. ARRAY / STRING
-|26|Array, Two Pointers|Easy|[Remove Duplicates from Sorted Array](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_26_RemoveDuplicatesfromSortedArray.cs)|
-|167|Array, Two Pointers, Binary Search|Easy|[Two Sum II - Input array is sorted](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_167_TwoSumII.cs)|
-|242|String, HashTable|Easy|[Valid Anagram](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_242_ValidAnagram.cs)|
-|3|String, HashTable, Two Pointers|Medium|[Longest Substring Without Repeating Characters](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_3_LongestSubstringWithoutRepeatingCharacters.cs)|
-|28|String, Two Pointers|Easy|[Implement strStr()](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_28_ImplementstrStr.cs)|
-|8|String, Math|Medium|[String to Integer (atoi)](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs)|
-|CHAPTER 2. LINKED LIST|
-|237|LinkedList|Easy|[Delete Node in a Linked List](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_237_DeleteNodeinaLinkedList.cs)|
-|206|LinkedList|Easy|[Reverse Linked List](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_206_ReverseLinkedList.cs)|
-|141|LinkedList, Two Pointers|Easy|[Linked List Cycle](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_141_LinkedListCycle.cs)|
-|21|LinkedList, Merge Sort|Easy|[Merge Two Sorted Lists](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_21_MergeTwoSortedLists.cs)|
-|24|LinkedList|Medium|[Swap Nodes in Pairs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_24_SwapNodesinPairs.cs)|
-|CHAPTER 3. BINARY TREE|
-|104|Tree, Depth-first Search|Easy|[Maximum Depth of Binary Tre](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_104_MaximumDepthofBinaryTree.cs)|
-|100|Tree, Depth-first Search|Easy|[MSame Tree](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_100_SameTree.cs)|
-|112|Tree, Depth-first Search|Easy|[Path Sum](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_112_PathSum.cs)|
-|257|Tree, Depth-first Search|Easy|[Binary Tree Paths](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_257_BinaryTreePaths.cs)|
-|98|Tree, Depth-first Search|Easy|[Validate Binary Search Tree](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_98_ValidateBinarySearchTree.cs)|
-|CHAPTER 4. STACK AND QUEUE|
-|225|Stack, Queue|Easy|[Implement Stack using Queues](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_225_ImplementStackusingQueues.cs)|
+|Charpter|ID|Tags|Difficulty|Solution|
+|--------|--|----|----------|--------|
+|CHAPTER 1. ARRAY / STRING|26|Array, Two Pointers|Easy|[Remove Duplicates from Sorted Array](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_26_RemoveDuplicatesfromSortedArray.cs)|
+|CHAPTER 1. ARRAY / STRING|167|Array, Two Pointers, Binary Search|Easy|[Two Sum II - Input array is sorted](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_167_TwoSumII.cs)|
+|CHAPTER 1. ARRAY / STRING|242|String, HashTable|Easy|[Valid Anagram](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_242_ValidAnagram.cs)|
+|CHAPTER 1. ARRAY / STRING|3|String, HashTable, Two Pointers|Medium|[Longest Substring Without Repeating Characters](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_3_LongestSubstringWithoutRepeatingCharacters.cs)|
+|CHAPTER 1. ARRAY / STRING|28|String, Two Pointers|Easy|[Implement strStr()](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_28_ImplementstrStr.cs)|
+|CHAPTER 1. ARRAY / STRING|8|String, Math|Medium|[String to Integer (atoi)](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_8_StringtoInteger.cs)|
+|CHAPTER 2. LINKED LIST||237|LinkedList|Easy|[Delete Node in a Linked List](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_237_DeleteNodeinaLinkedList.cs)|
+|CHAPTER 2. LINKED LIST||206|LinkedList|Easy|[Reverse Linked List](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_206_ReverseLinkedList.cs)|
+|CHAPTER 2. LINKED LIST||141|LinkedList, Two Pointers|Easy|[Linked List Cycle](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_141_LinkedListCycle.cs)|
+|CHAPTER 2. LINKED LIST||21|LinkedList, Merge Sort|Easy|[Merge Two Sorted Lists](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_21_MergeTwoSortedLists.cs)|
+|CHAPTER 2. LINKED LIST||24|LinkedList|Medium|[Swap Nodes in Pairs](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_24_SwapNodesinPairs.cs)|
+|CHAPTER 3. BINARY TREE|104|Tree, Depth-first Search|Easy|[Maximum Depth of Binary Tre](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_104_MaximumDepthofBinaryTree.cs)|
+|CHAPTER 3. BINARY TREE|100|Tree, Depth-first Search|Easy|[MSame Tree](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_100_SameTree.cs)|
+|CHAPTER 3. BINARY TREE|112|Tree, Depth-first Search|Easy|[Path Sum](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_112_PathSum.cs)|
+|CHAPTER 3. BINARY TREE|257|Tree, Depth-first Search|Easy|[Binary Tree Paths](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_257_BinaryTreePaths.cs)|
+|CHAPTER 3. BINARY TREE|98|Tree, Depth-first Search|Easy|[Validate Binary Search Tree](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_98_ValidateBinarySearchTree.cs)|
+|CHAPTER 4. STACK AND QUEUE|225|Stack, Queue|Easy|[Implement Stack using Queues](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_225_ImplementStackusingQueues.cs)|
 
 
  
