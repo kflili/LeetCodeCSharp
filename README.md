@@ -6,8 +6,6 @@
 
 **_[1. LeetCode Courses](https://leetcode.com/courses/)_**
 
-<<<<<<< HEAD
-=======
 ID|Tags|Difficulty|Solution
 --|----|----------|--------
 26|Array, Two Pointers|Easy|[Remove Duplicates from Sorted Array](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_26_RemoveDuplicatesfromSortedArray.cs)
@@ -27,7 +25,6 @@ ID|Tags|Difficulty|Solution
 257|Tree, Depth-first Search|Easy|[Binary Tree Paths](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_257_BinaryTreePaths.cs)
 98|Tree, Depth-first Search|Easy|[Validate Binary Search Tree](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_98_ValidateBinarySearchTree.cs)
 225|Stack, Queue|Easy|[Implement Stack using Queues](https://github.com/kflili/LeetCodeCSharp/blob/master/LeetCodeCSharp/_225_ImplementStackusingQueues.cs)
->>>>>>> parent of b4067c3... add chapter title in list
 
 
  
